@@ -103,3 +103,66 @@
                 <li><strong>Acompañamiento Humano:</strong> Fomentar apoyo cálido, respetuoso y centrado en la persona.</li>
             </ul>
         </section>
+
+       <h1>Nuestros Servicios</h1>
+    </header>
+
+    <div class="container">
+        <h2>Oferta de Servicios Profesionales</h2>
+
+        <div class="services">
+
+            <div class="card">
+                <h3>Atención Psicológica Individual</h3>
+                <p>
+                    Sesiones personalizadas para acompañarte en procesos de ansiedad, estrés, autoestima,
+                    manejo emocional y crecimiento personal, basadas en enfoques terapéuticos validados.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Terapia Familiar y de Pareja</h3>
+                <p>
+                    Espacios seguros para mejorar la comunicación, resolver conflictos y fortalecer vínculos
+                    afectivos dentro del sistema familiar o en relaciones de pareja.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Orientación y Consejería Emocional</h3>
+                <p>
+                    Acompañamiento breve para la toma de decisiones, manejo del estrés diario y resolución
+                    de situaciones específicas que necesitan claridad emocional.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Talleres y Charlas</h3>
+                <p>
+                    Actividades educativas sobre salud mental, autocuidado, habilidades sociales y prevención,
+                    dirigidas a escuelas, empresas e instituciones.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Evaluación Psicológica</h3>
+                <p>
+                    Aplicación de pruebas y herramientas profesionales para comprender el estado emocional,
+                    conductual y cognitivo de cada persona.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Acompañamiento Online</h3>
+                <p>
+                    Sesiones virtuales seguras, confidenciales y accesibles desde cualquier lugar, manteniendo
+                    la misma calidad del acompañamiento presencial.
+                </p>
+            </div>
+
+        </div>
+    </div>
+
+    <footer>
+        © 2025 | Oferta de Servicios Profesionales
+    </footer>
