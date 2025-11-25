@@ -103,10 +103,3 @@
                 <li><strong>Acompañamiento Humano:</strong> Fomentar apoyo cálido, respetuoso y centrado en la persona.</li>
             </ul>
         </section>
-
-    </div>
-
-</body>
-</html>
-</body>
-</html>
