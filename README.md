@@ -12,18 +12,3 @@
             height: 100vh;
             box-sizing: border-box;
             font-family: Arial, sans-serif;
-        }
-
-        .contenido {
-            padding: 20px;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <div class="contenido">
-        <h1>Bienvenido a mi página con marco</h1>
-        <p>Este es un ejemplo de un marco alrededor de toda la página.</p>
-    </div>
-</body>
-</html>
