@@ -65,50 +65,6 @@
     }
   </style>
 <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Misión, Visión y Valores - Salud Mental</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #f2f6f9;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background: #4a90e2;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-
-        .container {
-            max-width: 900px;
-            margin: 40px auto;
-            background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        }
-
-        h2 {
-            color: #4a90e2;
-            border-left: 5px solid #4a90e2;
-            padding-left: 10px;
-        }
-
-        p {
-            font-size: 1.1em;
-            line-height: 1.6;
-        }
-
-        ul {
-            font-size: 1.1em;
-            line-height: 1.7;
-        }
-    </style>
-</head>
-
 <body>
 
     <header>
