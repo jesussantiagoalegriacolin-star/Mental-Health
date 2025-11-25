@@ -68,63 +68,40 @@
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-       Mision
+        Accordion Item #1
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-     Promover el bienestar emocional y psicológico de las personas mediante servicios, recursos y acompañamiento basados en evidencia científica, ofreciendo un espacio seguro, accesible y empático donde cada individuo pueda comprenderse, fortalecerse y desarrollarse plenamente.
+        <strong>This is the first item’s accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It’s also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-     Vision
+        Accordion Item #2
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>Ser un referente en salud mental a nivel comunitario y digital, reconocido por brindar apoyo humanizado, inclusivo y oportuno; contribuyendo a una sociedad donde el cuidado emocional sea accesible, normalizado y valorado como parte fundamental del bienestar integral.
+        <strong>This is the second item’s accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It’s also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-      Valores
-      
+        Accordion Item #3
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>1. Empatía
-
-Comprender y acompañar con sensibilidad las experiencias únicas de cada persona.
-
-2. Respeto y Dignidad
-
-Tratar a cada individuo con humanidad, privacidad y aceptación, sin estigmas ni prejuicios.
-
-3. Inclusión
-
-Asegurar que todas las personas —sin importar su origen, identidad, condición o contexto— tengan acceso a apoyo emocional y psicológico.
-
-4. Ética Profesional
-
-Brindar información y servicios basados en evidencia científica, con responsabilidad y transparencia.
-
-5. Confidencialidad
-
-Proteger la privacidad y la seguridad emocional de cada persona en todo momento.
-
-6. Accesibilidad
-
-Ofrecer recursos comprensibles, prácticos y disponibles para todos.
-
-7. Acompañamiento Humano
-
-Fomentar relaciones de apoyo cálidas, respetuosas y centradas en la persona.
+        <strong>This is the third item’s accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It’s also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+</div>
       </div>
     </div>
   </div>
