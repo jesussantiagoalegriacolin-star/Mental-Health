@@ -105,7 +105,6 @@
         </section>
 
        <h1>Nuestros Servicios</h1>
-    </header>
 
     <div class="container">
         <h2>Oferta de Servicios Profesionales</h2>
