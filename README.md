@@ -72,27 +72,42 @@
         <section>
             <h2>Misión</h2>
             <p>
-                Brindar apoyo, información y herramientas accesibles para promover el bienestar 
-                emocional y la salud mental, acompañando a las personas en su crecimiento personal.
+               Promover el bienestar emocional y psicológico de las personas mediante servicios, recursos y acompañamiento basados en evidencia científica, ofreciendo un espacio seguro, accesible y empático donde cada individuo pueda comprenderse, fortalecerse y 
+               desarrollarse plenamente.
             </p>
         </section>
 
         <section>
             <h2>Visión</h2>
             <p>
-                Ser una plataforma referente en salud mental, reconocida por su enfoque humano, 
-                ético y basado en evidencia, que inspire a las personas a vivir con equilibrio y bienestar.
+              Ser un referente en salud mental a nivel comunitario y digital, reconocido por brindar apoyo humanizado, inclusivo y oportuno; contribuyendo a una sociedad donde el cuidado emocional sea accesible, normalizado y valorado como parte fundamental del 
+              bienestar integral.
             </p>
         </section>
 
         <section>
             <h2>Valores</h2>
             <p>
-                • Empatía y respeto por cada persona.<br>
-                • Compromiso con la verdad y la evidencia científica.<br>
-                • Inclusión, diversidad y accesibilidad.<br>
-                • Confidencialidad y seguridad.<br>
-                • Trabajo colaborativo para el bienestar integral.
+             1. Empatía
+Comprender y acompañar con sensibilidad las experiencias únicas de cada persona.
+
+2. Respeto y Dignidad
+Tratar a cada individuo con humanidad, privacidad y aceptación, sin estigmas ni prejuicios.
+
+3. Inclusión
+Asegurar que todas las personas —sin importar su origen, identidad, condición o contexto— tengan acceso a apoyo emocional y psicológico.
+
+4. Ética Profesional
+Brindar información y servicios basados en evidencia científica, con responsabilidad y transparencia.
+
+5. Confidencialidad
+Proteger la privacidad y la seguridad emocional de cada persona en todo momento.
+
+6. Accesibilidad
+Ofrecer recursos comprensibles, prácticos y disponibles para todos.
+
+7. Acompañamiento Humano
+Fomentar relaciones de apoyo cálidas, respetuosas y centradas en la persona.
             </p>
         </section>
     </div>
