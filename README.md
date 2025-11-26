@@ -165,3 +165,77 @@
     <footer>
         © 2025 | Oferta de Servicios Profesionales
     </footer>
+  <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f0f7f7;
+            color: #333;
+        }
+        header {
+            background: #4db6ac;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        nav {
+            background: #00695c;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 30px;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        form {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            max-width: 500px;
+            margin: auto;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+        button {
+            background: #4db6ac;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 5px;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #004d40;
+            color: white;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Conferencias de Salud Mental</h1>
+    <p>Aprende, crece y recibe apoyo de expertos en bienestar emocional.</p>
+</header>
