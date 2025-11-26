@@ -232,10 +232,13 @@
             margin-top: 30px;
         }
     </style>
-</head>
 <body>
 
 <header>
     <h1>Conferencias de Salud Mental</h1>
     <p>Aprende, crece y recibe apoyo de expertos en bienestar emocional.</p>
 </header>
+  <div class="card">
+        <h3>Dra. Laura Diaz Bernal</h3>
+        <p>Psicóloga clínica especializada.</p>
+    </div>
