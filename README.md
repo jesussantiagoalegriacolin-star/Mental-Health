@@ -382,7 +382,7 @@
         </select>
 
         <label>Mensaje (opcional)</label>
-        <textarea rows="4" placeholder="Cuéntanos sobre ti o tu motivo de consulta"></textarea>
+        <textarea rows="4" placeholder="¿Alguna otra terapia?"></textarea>
 
         <button type="submit">Enviar solicitud</button>
     </form>
