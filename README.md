@@ -391,5 +391,3 @@
 <footer>
     © 2025 Centro de Terapias – Bienestar y Salud Mental
 </footer>
-
-</body>
