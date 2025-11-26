@@ -362,3 +362,34 @@
         <p>Abordaje especializado para gestionar emociones intensas y recuperar el bienestar emocional.</p>
     </div>
 </section>
+<section id="contacto">
+    <h2>Agenda tu sesión</h2>
+
+    <form>
+        <label>Nombre completo</label>
+        <input type="text" placeholder="Tu nombre" required>
+
+        <label>Correo electrónico</label>
+        <input type="email" placeholder="Tu correo" required>
+
+        <label>Selecciona un tipo de terapia</label>
+        <select required>
+            <option value="">-- Elige una opción --</option>
+            <option>Terapia Cognitivo-Conductual</option>
+            <option>Terapia Humanista</option>
+            <option>Terapia Familiar y de Pareja</option>
+            <option>Terapia para Ansiedad y Depresión</option>
+        </select>
+
+        <label>Mensaje (opcional)</label>
+        <textarea rows="4" placeholder="Cuéntanos sobre ti o tu motivo de consulta"></textarea>
+
+        <button type="submit">Enviar solicitud</button>
+    </form>
+</section>
+
+<footer>
+    © 2025 Centro de Terapias – Bienestar y Salud Mental
+</footer>
+
+</body>
