@@ -242,3 +242,28 @@
         <h3>Dra. Laura Diaz Bernal</h3>
         <p>Psicóloga clínica especializada.</p>
     </div>
+<section id="registro">
+    <h2>Registro</h2>
+    <form>
+        <label>Nombre completo</label>
+        <input type="text" placeholder="Tu nombre" required>
+
+        <label>Correo electrónico</label>
+        <input type="email" placeholder="Tu correo" required>
+
+        <label>Conferencia de interés</label>
+        <input type="text" placeholder="Ej: Manejo de la ansiedad" required>
+
+        <label>Mensaje (opcional)</label>
+        <textarea rows="4" placeholder="Escribe tu mensaje"></textarea>
+
+        <button type="submit">Enviar registro</button>
+    </form>
+</section>
+
+<footer>
+    © 2025 Conferencias de Salud Mental – Bienestar para todos
+</footer>
+
+</body>
+</html>
