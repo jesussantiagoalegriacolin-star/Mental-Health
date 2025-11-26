@@ -333,11 +333,32 @@
             margin-top: 30px;
         }
     </style>
-</head>
 <body>
 
 <header>
     <h1>Terapias de Bienestar Emocional</h1>
     <p>Acompañamiento profesional para mejorar tu salud mental y calidad de vida.</p>
 
+<section id="terapias">
+    <h2>Tipos de Terapias</h2>
 
+    <div class="card">
+        <h3>Terapia Cognitivo-Conductual (TCC)</h3>
+        <p>Ayuda a cambiar patrones de pensamiento negativos y desarrollar habilidades para manejar situaciones difíciles.</p>
+    </div>
+
+    <div class="card">
+        <h3>Terapia Humanista</h3>
+        <p>Promueve el crecimiento personal y la autoreflexión, centrándose en el presente y la experiencia individual.</p>
+    </div>
+
+    <div class="card">
+        <h3>Terapia Familiar y de Pareja</h3>
+        <p>Mejora la comunicación, fortalece vínculos y resuelve conflictos dentro del núcleo familiar.</p>
+    </div>
+
+    <div class="card">
+        <h3>Terapia para la Ansiedad y Depresión</h3>
+        <p>Abordaje especializado para gestionar emociones intensas y recuperar el bienestar emocional.</p>
+    </div>
+</section>
